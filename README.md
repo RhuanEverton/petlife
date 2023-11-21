@@ -28,6 +28,8 @@ O site possui várias seções, cada uma dedicada a um aspecto específico do cu
 
 Para usar o site, acesse o link: https://rhuaneverton.github.io/petlife/
 
+`Não foi implementado responsividade em dispositivos moveis até o momento.`
+
 
 ## Contribuições para o Projeto
 
