@@ -26,13 +26,8 @@ O site possui várias seções, cada uma dedicada a um aspecto específico do cu
 
 ## Como Usar o Site
 
-Para usar o site, siga os passos abaixo:
+Para usar o site, acesse o link: https://rhuaneverton.github.io/petlife/
 
-1. Clone o repositório do projeto para o seu computador usando o comando `git clone`.
-
-2. Abra o arquivo `index.html` no seu navegador.
-
-3. Navegue pelo site usando os links no cabeçalho da página.
 
 ## Contribuições para o Projeto
 
