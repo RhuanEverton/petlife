@@ -37,4 +37,4 @@ Contribuições para o projeto são bem-vindas. Se você encontrar algum problem
 
 ## Autor do Projeto
 
-O projeto foi criado por Rhuan Everton. Você pode entrar em contato com ele pelo e-mail rhuan@rhuaneverton.com para quaisquer dúvidas ou sugestões.
+O projeto foi criado por Rhuan Everton. Você pode entrar em contato com ele pelo e-mail dev.rhuan@gmail.com para quaisquer dúvidas ou sugestões.
